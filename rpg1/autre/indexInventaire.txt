@@ -1,0 +1,6 @@
+1	Petite potion de vie	1	1
+2	Potion de vie moyenne	1	2
+3	Grande potion de vie	1	3
+4	Petite potion de mana	2	1
+5	Potion de mana moyenne	2	2
+6	Grande potion de mana	2	3

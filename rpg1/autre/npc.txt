@@ -1,0 +1,2 @@
+4	4	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	3000	0	2	Bonjour :)	pnj
+4	10	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	3000	1000	2	Hohoho i'm a pirate	pnj

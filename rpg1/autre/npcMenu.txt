@@ -1,0 +1,16 @@
+1	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	1	Bonjour :)	pnj
+11	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	1	Bonjour :)	pnj
+21	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	1	Bonjour :)	pnj
+31	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	1	Bonjour :)	pnj
+41	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	1	Bonjour :)	pnj
+1	34	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	0	Hohoho i'm a pirate	pnj
+1	24	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	0	Hohoho i'm a pirate	pnj
+1	14	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	0	Hohoho i'm a pirate	pnj
+47	1	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	2	Bonjour :)	pnj
+47	10	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	2	Bonjour :)	pnj
+47	20	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	2	Bonjour :)	pnj
+47	30	2	regisU1.png	regisU2.png	regisR1.png	regisR2.png	regisD1.png	regisD2.png	regisL1.png	regisL2.png	0	1000	2	Bonjour :)	pnj
+47	34	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	3	Hohoho i'm a pirate	pnj
+37	34	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	3	Hohoho i'm a pirate	pnj
+27	34	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	3	Hohoho i'm a pirate	pnj
+17	34	2	up1.png	up2.png	right1.png	right2.png	down1.png	down2.png	left1.png	left2.png	0	1000	3	Hohoho i'm a pirate	pnj

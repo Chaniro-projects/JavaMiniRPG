@@ -1,0 +1,14 @@
+.	sol2.png	true	false	 
+b	buisson.png	false	true	Buisson
+s	sapin.png	false	true	Sapin
+-	sol1.png	true	false	 
+*	fleurHerbHaut.png	true	false	 
+|	fleurHerbBas.png	true	false	 
+8	sol3.png	true	false	 
+p	pancarte.png	false	true	"Annonce"
+a	eauC.png	false	true	Eau
+c	eauN.png	false	true	Eau
+d	eauNE.png	false	true	Eau
+e	eauNW.png	false	true	Eau
+f	eauE.png	false	true	Eau
+g	eauW.png	false	true	Eau
